@@ -21,4 +21,8 @@ class MainActivity : AppCompatActivity() {
         //上传数据
     }
 
+    private fun test(){
+        //方法
+    }
+
 }
