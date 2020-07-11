@@ -17,4 +17,8 @@ class MainActivity : AppCompatActivity() {
         //网络获取数据
     }
 
+    private fun unload(){
+        //上传数据
+    }
+
 }
